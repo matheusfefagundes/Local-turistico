@@ -1,0 +1,9 @@
+.footer p:nth-child(1) {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.footer p:nth-child(2) {
+    margin-top: 65px;
+    text-align: center;
+}

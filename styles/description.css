@@ -1,0 +1,17 @@
+.descripition-image{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin-top: 40px;
+}
+
+.descripition-image img{
+    margin-bottom: 24px;
+    max-width: 100%;
+}
+
+.descripition-image p{
+    font: var(--text-secondary);
+    text-align: center;
+    margin-bottom: 40px;
+}

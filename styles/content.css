@@ -1,0 +1,54 @@
+.title-list {
+    margin-top: 64px;
+}
+
+.title h2{
+    color: var(--text-headline);
+    text-transform: uppercase;
+    font-size: 16px;
+    margin-bottom: 4px;
+}
+
+.title h1{
+    color: var(--text-primary);
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.title p{
+    font: var(--text-secondary);
+    margin-top: 8px;
+    margin-bottom: 64px;
+    font-size: 16px;
+}
+
+.card-travel img{
+    margin-bottom: 20px;
+}
+
+.content-card{
+    margin-bottom: 48px;
+}
+
+.content-card h1{
+     color: var(--text-primary);
+     font-size: 28px;
+}
+
+.content-card p{
+     color: var(--text-primary);
+     font-size: 16px;
+}
+
+.content-card li{
+    color: var(--accent-blue);
+}
+
+.content-card li::marker{
+    color: var(--text-primary);
+}
+
+.bold{
+    font-weight: bold;
+    margin-top: 18px;
+}
